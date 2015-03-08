@@ -40,20 +40,8 @@ public class InsertionSort {
 	private static void printArray(int[] A) {
 	for (int i =0; i< A.length ; i++){
 	System.out.println(A[i]);		
-	}}}		
-		/*System.out.println("Enter your name: " );
-		 String name =s.next();
-		 
-	      System.out.println("Enter first number: ");
-	      int firstNumber = s.nextInt();
-	      System.out.print("Enter second number: ");
-	      int secondNumber = s.nextInt();
-	      
-	      
-	      
-	      
-	      int sum = firstNumber + secondNumber;
-	      System.out.println("The result of addition is " + sum);
-	}*/
-
-
+	}
+	}
+	
+}		
+		
